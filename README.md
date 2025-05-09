@@ -1,4 +1,4 @@
-# Driver-s-Distraction-By-Deep-Learning
+# Driver Distraction Recognition
 Recognition Of Driver's Distraction Based On Facial Thermal Videos By Deep Learning 
 
 ![Algorithm Image](Images/algorithm.jpg)
